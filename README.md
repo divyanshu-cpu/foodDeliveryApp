@@ -1,4 +1,5 @@
 Project Title: Food Delivery App
+
 Overview: I developed a food delivery application using the MERN stack (MongoDB, Express.js, React.js, Node.js) that allows users to browse local restaurants, place orders, and track deliveries in real-time.
 Key Features:
 * User Authentication: Implemented secure user registration and login with JWT for session management.
