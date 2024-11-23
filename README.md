@@ -5,7 +5,8 @@ Key Features:
 * User Authentication: Implemented secure user registration and login with JWT for session management.
 * Food Listings: Users can view a restaurant with menus, images, and prices.
 * Order Management: Customers can add items to their cart, place orders, and receive order confirmations.
-Admin Dashboard: Developed a separate interface for restaurant owners to manage their menu items, orders, and view analytics.
+* Admin Dashboard: Developed a separate interface for restaurant owners to manage their menu items, orders, and view analytics.
+
 
 Technologies Used:
 * Frontend: React.js for building a dynamic user interface, or state management.
